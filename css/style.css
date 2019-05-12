@@ -1,0 +1,24 @@
+.product-layout img {
+  height: 200px;
+  width: 300px;
+}
+
+#catImg img {
+	height: 100px;
+  	width: 270px;
+}
+
+.wishlist {
+	visibility: hidden;
+	display: none important;
+}
+
+.compare {
+	visibility: hidden;
+	display: none important;
+}
+
+.formsize {
+	max-width: 15px;
+}
+
